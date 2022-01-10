@@ -16,8 +16,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -73,7 +71,7 @@ I would like to improve on my front end design skills by leveraging available fr
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Thobo-ops](https://www.frontendmentor.io/profile/Thobo-ops)
 
 ## Acknowledgements
 
