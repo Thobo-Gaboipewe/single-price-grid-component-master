@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor | Single Price Grid Component](https://github.com/Thobo-Gaboipewe/single-price-grid-component-master)
+- Live Site URL: [Frontend Mentor | Single Price Grid Component](https://single-price-grid-component-thobo-ops.netlify.app/)
 
 ## My process
 
